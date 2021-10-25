@@ -16,9 +16,20 @@ h1{
 }
 
 .father{
+    max-width: 1170px;
+    margin: 30px auto;
     display: flex;
     flex-wrap: wrap;
 }
+
+.father .square{
+   width: 60px;
+   height: 60px;
+   margin: 0.5rem;
+   background-color: rgba(26, 137, 178, 1);
+}
+
+
 
 
 
