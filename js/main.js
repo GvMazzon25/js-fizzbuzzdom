@@ -1,5 +1,5 @@
-const square = document.querySelection('.square');
+const square = document.querySelection('.father');
 
 for (let index=1; index<=100;1++ ){
-   square.innerHtml += <div class = "square">${index}</div>
+   square.innerHtml += <div class = "square">${index}</div>;
 }

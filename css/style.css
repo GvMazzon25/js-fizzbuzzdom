@@ -15,8 +15,9 @@ h1{
     color: white;
 }
 
-.square{
-
+.father{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
