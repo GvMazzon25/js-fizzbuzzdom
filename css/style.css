@@ -15,14 +15,14 @@ h1{
     color: white;
 }
 
-.father{
+#father{
     max-width: 1170px;
     margin: 30px auto;
     display: flex;
     flex-wrap: wrap;
 }
 
-.father .square{
+#father .box{
     font-size: 1.5rem;
    width: 100px;
    height: 100px;
@@ -31,15 +31,15 @@ h1{
    line-height: 100px;
 }
 
-.father .square-both{
+.box-both{
     background-color: rgba(240, 69, 111, 1);
 }
 
-.father .square-five{
+.box-five{
     background-color: rgba(255, 210, 102, 1);
 }
 
-.father .square-three{
+.box-three{
     background-color: rgba(25, 214, 161, 1);
 }
 
